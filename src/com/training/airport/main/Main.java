@@ -15,7 +15,7 @@ public class Main {
 		line = new ArrayList<Airline>();
 		line.add(new Airline("London", 1010, "Broiler-747", 3, 1));
 		line.add(new Airline("Berlin", 1001, "Broiler-747", 6, 2));
-		line.add(new Airline("Mosñow", 1100, "Broiler-747", 9, 3));
+		line.add(new Airline("Moscow", 1100, "Broiler-747", 9, 3));
 		line.add(new Airline("Barselona", 0011, "Broiler-747", 12, 4));
 		line.add(new Airline("Vilnius", 0101, "Broiler-747", 15, 5));
 		line.add(new Airline("Minsk", 0110, "Broiler-747", 18, 6));
